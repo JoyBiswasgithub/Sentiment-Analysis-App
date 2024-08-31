@@ -1,8 +1,8 @@
 # Sentiment Analysis App
 
-![LLM](https://img.shields.io/badge/license-Transformers-blue.svg)
+![LLM](https://img.shields.io/badge/Transformers.7%2B-blue)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
-![Deployment](https://img.shields.io/badge/license-Streamlit-blue.svg)
+![Deployment](https://img.shields.io/badge/Streamlit.7%2B-blue)
 
 A user-friendly web application for sentiment analysis built with Streamlit and Hugging Face Transformers. This app allows users to input text, analyze its sentiment, and receive a star rating based on the sentiment.
 
