@@ -1,7 +1,8 @@
 # Sentiment Analysis App
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![LLM](https://img.shields.io/badge/license-Transformers-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
+![Deployment](https://img.shields.io/badge/license-Streamlit-blue.svg)
 
 A user-friendly web application for sentiment analysis built with Streamlit and Hugging Face Transformers. This app allows users to input text, analyze its sentiment, and receive a star rating based on the sentiment.
 
@@ -35,19 +36,3 @@ A user-friendly web application for sentiment analysis built with Streamlit and 
 
 5. **Personal Use:**
    - Individuals can use the app to analyze the sentiment of their own written content, such as blog posts, personal messages, or creative writing.
-
-## Demo
-
-![Demo](https://example.com/demo.gif) <!-- Replace with a real demo image or GIF -->
-
-You can try the app live [here](https://your-deployed-app-url).
-
-## Installation
-
-To set up and run this app locally, follow these instructions:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-app.git
-   cd sentiment-analysis-app
